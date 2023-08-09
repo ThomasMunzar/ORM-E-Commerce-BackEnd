@@ -11,7 +11,7 @@
 * [License](#license)
 
 ## Description
-[Watch a video of the functionality of this code here!]()
+[Watch a video of the functionality of this code here!](https://drive.google.com/file/d/1nXQuFgRrgwZFHme3U4U0CUfEFSauIkl5/view)
 
 The purpose of this project was to refactor code and make it functional. We were given all the back-end code of a E-Commerce site, however, there was no code written for the Models or the Api routes.  Using RESTful api practices to keep the code clean and up to most standards, I was able to connect HTTP requests to the server.
 
